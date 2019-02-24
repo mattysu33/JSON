@@ -3,52 +3,52 @@
     {
       "id": "000001",
       "question": "What is always coming, but never arrives?",
-      "answer": "Tomorrow"
+      "answer": "tomorrow"
     },
     {
       "id": "000002",
       "question": "What word would you use to describe a man who does not have all his fingers on one hand?",
-       "answer": "Normal, because people usually have half their fingers on one hand"
+       "answer": "normal"
     },
     {
       "id": "000003",
       "question": "What can be broken, but is never held?",
-       "answer": "A promise"
+       "answer": "a promise"
     },
     {
       "id": "000004",
       "question": "What is it that lives if it is fed, and dies if you give it a drink?",
-       "answer": "Fire"
+       "answer": "fire"
     },
     {
       "id": "000005",
       "question": "What can one catch that is not thrown?",
-       "answer": "A cold"
+       "answer": "a cold"
     },
     {
       "id": "000006",
       "question": "What is it that if you have, you want to share me, and if you share, you do not have?",
-       "answer": "A secret"
+       "answer": "a secret"
     },
     {
       "id": "000007",
       "question": "If a plane crashes on the border between the United States and Canada, where do they bury the survivors?",
-       "answer": "Survivors are not buried"
+       "answer": "survivors are not buried"
     },
     {
       "id": "000008",
       "question": "If it takes eight men ten hours to build a wall, how long would it take four men?",
-       "answer": "No time, because the wall is already built"
+       "answer": "no time, because the wall is already built"
     },
     {
       "id": "000009",
       "question": "If you have a bowl with six apples and you take away four, how many do you have?",
-       "answer": "The 4 you took away"
+       "answer": "the 4 you took away"
     },
     {
       "id": "000010",
       "question": "If you had only one match and entered a dark room containing an oil lamp, some kindling wood, and a newspaper, which would you light first?",
-       "answer": "The match"
+       "answer": "the match"
     }
   ]
 }
